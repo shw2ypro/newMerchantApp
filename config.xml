@@ -8,7 +8,6 @@
         groci.co.uk
     </author>
   <content src="index.html"/>
-  <preference name="phonegap-version" value="cli-9.0.0" />
   <preference name="orientation" value="portrait"/>
   <preference name="SplashScreenDelay" value="0"/>
   <preference name="fullscreen" value="false"/>
