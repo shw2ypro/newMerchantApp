@@ -28,7 +28,6 @@
   <gap:plugin name="cordova-plugin-splashscreen" source="npm" spec="5.0.3"/>
   <gap:plugin name="cordova.plugins.diagnostic" source="npm"/>
   <gap:plugin name="cordova-plugin-request-location-accuracy" source="npm" spec="2.3.0"/>
-  <gap:plugin name="uk.co.workingedge.phonegap.plugin.launchnavigator" source="npm"/>
   <gap:plugin name="cordova-plugin-ionic-webview" source="npm"/>
   <gap:plugin name="cordova-plugin-insomnia" source="npm" spec="4.3.0"/>
   <gap:plugin spec="https://github.com/dpa99c/cordova-plugin-dialogs"/>
