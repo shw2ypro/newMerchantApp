@@ -9,6 +9,7 @@
     </author>
   <content src="index.html"/>
   <preference name="phonegap-version" value="cli-9.0.0" />
+  <preference name='pgb-builder-version' value='2' />
   <preference name="orientation" value="portrait"/>
   <preference name="SplashScreenDelay" value="0"/>
   <preference name="fullscreen" value="false"/>
@@ -30,10 +31,7 @@
   <gap:plugin name="cordova-plugin-request-location-accuracy" source="npm" spec="2.3.0"/>
   <gap:plugin name="cordova-plugin-insomnia" source="npm" spec="4.3.0"/>
   <gap:plugin spec="https://github.com/dpa99c/cordova-plugin-dialogs"/>
-  <!-- <plugin name="cordova-plugin-firebasex" source="npm" spec="9.1.1-cli"/> -->
-  <plugin name="cordova-plugin-firebasex" spec="latest">
-    <variable name="ANDROID_FIREBASE_ANALYTICS_VERSION" value="17.0.0" />
-  </plugin>
+  <plugin name="cordova-plugin-firebasex" source="npm" spec="9.1.1-cli"/>
 
 
   <allow-navigation href="*"/>
