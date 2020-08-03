@@ -29,7 +29,7 @@
   <gap:plugin name="cordova-plugin-request-location-accuracy" source="npm" spec="2.3.0"/>
   <gap:plugin name="cordova-plugin-insomnia" source="npm" spec="4.3.0"/>
   <gap:plugin spec="https://github.com/dpa99c/cordova-plugin-dialogs"/>
-  <plugin name="cordova-plugin-firebasex" source="npm" spec="9.1.1-cli"/>
+  <plugin name="cordova-plugin-firebasex" source="npm"/>
 
 
   <allow-navigation href="*"/>
